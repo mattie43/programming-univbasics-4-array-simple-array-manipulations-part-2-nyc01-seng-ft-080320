@@ -5,3 +5,7 @@ end
 def using_insert(arr, ele)
   arr[4].insert(ele)
 end
+
+def using_uniq(arr)
+  arr.uniq
+end
